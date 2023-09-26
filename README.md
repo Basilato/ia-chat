@@ -13,6 +13,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 .env.local
 ```
 
+Tenha instalado:
 ```
 nodeJs
 ```
