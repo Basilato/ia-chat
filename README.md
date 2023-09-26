@@ -7,9 +7,10 @@ Projeto em NextJs - Tailwind - utilizando Vercel SDK e OpenAi
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 ### 📋 Pré-requisitos
+    Voce devera adicionar sua api key do openAi em 
 
 ```
-API KEY - openAi
+.env.local
 ```
 
 ```
